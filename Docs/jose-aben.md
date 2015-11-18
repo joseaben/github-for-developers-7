@@ -2,4 +2,8 @@
 
 **My name:** Jose
 
-**My favorite** color is blue 
+**My favorite** color is blue
+
+**My hobby is** watch series
+
+**Other hobby** develop programs
